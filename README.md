@@ -16,4 +16,11 @@ Using the template is very straightforward
 
 If you find anything broken or find something missing, you can either set up an Issue request or a Pull Request for us to merge. 
 
-*Last Updated 19/09/2021*
+## Updates
+
+Latest updates / improvements
+
+- 19/09/2021 - Initial commit, basics for LaTeX 2e
+- 30/07/2024 - Added .layout for LyX users (thanks @kolergy)
+  
+*Last Updated 30/07/2024*
